@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Arsh Singh
+- 👀 I’m interested in Web Developmet
+- 🌱 I’m currently learning React
+- 📫 How to reach me (LinkedIn URL)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like Pizza
